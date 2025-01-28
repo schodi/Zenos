@@ -1,6 +1,6 @@
 ![FocusXP](focus_logo1.png)
 
-## Einführung in FocusXP
+## Einführung in FocusXP - Teammitglieder: Markus Schoder / Steven Ou
 
 Jedem von uns ist es schon in der Schulzeit passiert, dass wir einmal Termine übersehen oder für den anstehenden Test nicht genug gelernt haben. Hier kommt nun "FocusXP" ins Spiel, diese App soll die Schüler darin unterstützen. 
 
