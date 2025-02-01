@@ -30,3 +30,24 @@ Designkosten:
 Darunter fällt das User Interface (UI, Benutzeroberfläche) und die User Experience (UX, Benutzerfreundlichkeit).
 Für das App-Design kalkulieren wir 3.000 €, da durch die gegebene Individualität ein hoher Aufwand des Grafikdesigns entsteht.
 
+Entwicklungskosten:
+
+Die Kosten der Entwicklung dieser App werden sich auf rund 15.000 € belaufen.
+
+Die inkludiert bereits die Webseite und die dafür benötigte Datenbank.
+Folgende Schnittstellen:
+
+* Datenbankschnittstelle
+* Netzwerkschnittstelle
+* Benutzeroberfläche
+* Social-Media-Schnittstelle
+* AI-Schnittstelle
+
+**Hardware und sonstige Kosten**
+
+Das Projekt wird von uns selbst gehostet und betrieben, deswegen werden 3.000 € für die Website und den Datenbankserver fällig.
+
+Hinzu kommt noch eine Firewall für 300 €, Internet Betriebskosten um eine schnelle Kommunikation zu gewährleisten: 250 € pro Monat, einen Raum für unsere Server: 150 € pro Monat und der daraus folgende Strom: 100 € pro Monat.
+
+### Gesamtkosten: 21.800 €
+
