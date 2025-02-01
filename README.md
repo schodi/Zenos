@@ -11,8 +11,8 @@ Das main aim dieses Projektes ist es, dass wir Schülern/Studenten die Möglichk
 # Inhaltsverzeichnis
 
 ## 1. [Ausgangssituation](/Workspace/Ausgangssituation.md) 
-## 2. [Allgemeine Bedingung und Einschränkung](/Workspace/AllgemeineBedingungUndEinschränkung.md)
-## 3. [System Konzept und Ziele](/Workspace/SystemkonzeptUndZiele.md)
-## 4. [Möglichkeiten und Risiken](/Workspace/MöglichkeitenUndRisiken.md)
-## 5. [Plannung](/Workspace/Plannung.md)
+## 2. [Allgemeine Bedingung und Einschränkung](/Workspace/Allgemeine-Bedingungen-Und-Einschränkung.md)
+## 3. [System Konzept und Ziele](/Workspace/Systemkonzept-Und-Ziele.md)
+## 4. [Möglichkeiten und Risiken](/Workspace/Möglichkeiten-Und-Risiken.md)
+## 5. [Plannung](/Workspace/Planung.md)
 
