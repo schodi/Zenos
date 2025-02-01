@@ -2,11 +2,9 @@
 
 ## Einführung in FocusXP - Teammitglieder: Markus Schoder / Steven Ou
 
-Jedem von uns ist es schon in der Schulzeit passiert, dass wir einmal Termine übersehen oder für den anstehenden Test nicht genug gelernt haben. Hier kommt nun "FocusXP" ins Spiel, diese App soll die Schüler darin unterstützen. 
+Jedem von uns ist es während der Schulzeit schon einmal passiert, dass wir Termine übersehen oder uns nicht ausreichend auf einen anstehenden Test vorbereitet haben. Genau hier kommt FocusXP ins Spiel – eine App, die Schüler dabei unterstützen soll.
 
-Das main aim dieses Projektes ist es, dass wir Schülern/Studenten die Möglichkeit bieten wollen, dass diese in einem Kalender alle Termine eintragen, damit diese nie wieder vergessen oder übersehen werden. Basierend auf die Eintragung des Tests/Schularbeit wird dann ein Lernplan erstellt, welcher den Schüler dabei helfen soll, früh genug mit dem lernen anzufangen.
-
-(In Bearbeitung)
+Das Hauptziel dieses Projekts ist es, Schülern und Studenten die Möglichkeit zu bieten, alle wichtigen Termine in einem Kalender einzutragen, sodass sie nichts mehr vergessen oder übersehen. Basierend auf der Eintragung von Tests oder Schularbeiten wird automatisch ein Lernplan erstellt, der den Schülern hilft, frühzeitig mit dem Lernen zu beginnen.
 
 # Inhaltsverzeichnis
 
@@ -14,5 +12,5 @@ Das main aim dieses Projektes ist es, dass wir Schülern/Studenten die Möglichk
 ## 2. [Allgemeine Bedingung und Einschränkung](/Workspace/Allgemeine-Bedingungen-Und-Einschränkung.md)
 ## 3. [System Konzept und Ziele](/Workspace/Systemkonzept-Und-Ziele.md)
 ## 4. [Möglichkeiten und Risiken](/Workspace/Möglichkeiten-Und-Risiken.md)
-## 5. [Plannung](/Workspace/Planung.md)
+## 5. [Planung](/Workspace/Planung.md)
 
