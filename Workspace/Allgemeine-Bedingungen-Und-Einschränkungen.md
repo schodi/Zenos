@@ -1,20 +1,15 @@
-### Allgemeine Bedingung und Einschränkung
+# Allgemeine Bedingung und Einschränkung
 
-Unsere App soll den User den Spaß am lernen nicht zu kurz kommen. Bei diesem Projekt ist es uns sehr wichtig ein Benutzerfreundliche Oberfläche zu bieten. Dies soll die Student/Schüler in ihrem Semster/Schuljahr eine bessere Noten erzielen. Wenn eine App nicht gut bedienbar ist, werden die Kunden frustiert und werden die App weniger nutzen bzw. die App gar nicht mehr benutzen.
-
----
-
-Focus/XP soll schnell und einfach zu bedienen sein. Nach der Schule/Uni schnell mal die tägliche Challenge um den Stoff erledigen. Probleme mit Lernen sollte auch kein Ding sein mit den Lern-Methoden die wir bieten.
+Unsere App soll den Usern den Spaß am Lernen nicht nehmen. Bei diesem Projekt ist es uns sehr wichtig, eine benutzerfreundliche Oberfläche zu bieten. Dies soll den Studierenden und Schülern in ihrem Semester oder Schuljahr helfen, bessere Noten zu erzielen. Wenn eine App nicht gut bedienbar ist, werden die Nutzer frustriert und verwenden die App seltener oder gar nicht mehr.
 
 ---
-
-
-Wir wollen den Student/Schüler die best möglich Erfahrung bei Lernen geben. Unser Hauptmerkmal soll das Gamification sein, durch tägliche Challenge und ein Kalender der dich Up-To-Date hält, versuchen wir den 1er Student/Schüler aus sich raus zuholen. 
+Focus/XP soll schnell und einfach zu bedienen sein. Nach der Schule oder Uni kann man schnell die tägliche Challenge absolvieren, um den Stoff zu wiederholen. Probleme mit dem Lernen sollten durch unsere Lernmethoden kein Hindernis mehr sein.
 
 ---
-
-Ein weiterer wichtiger Aspekt des Projekts Focus/XP ist die "nicht stören funktion", das Lernen sollte nicht durch andere Aktivität gestört werden. Wir wollen um ein ruhiges und angenehmes Lernen schaffen.
+Wir wollen den Studierenden und Schülern die bestmögliche Lernerfahrung bieten. Unser Hauptmerkmal ist die Gamification – durch tägliche Challenges und einen Kalender, der dich up-to-date hält, versuchen wir, das Beste aus jedem herauszuholen.
 
 ---
+Ein weiterer wichtiger Aspekt von Focus/XP ist die "Nicht-stören-Funktion" – das Lernen sollte nicht durch andere Aktivitäten unterbrochen werden. Unser Ziel ist es, eine ruhige und angenehme Lernumgebung zu schaffen.
 
-Ein großes Problem ist Datenschutz, wir können nicht in der Zukunft schauen, ob Universitäten/Schulen ihre Pdf bzw. PowerPoint oder Word solche Apps wie unsere erlauben.
+---
+Ein großes Problem ist der Datenschutz. Wir können nicht vorhersehen, ob Universitäten oder Schulen es erlauben werden, dass ihre PDFs, PowerPoint-Präsentationen oder Word-Dokumente in Apps wie unserer genutzt werden

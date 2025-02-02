@@ -1,6 +1,6 @@
 Markus
 
-## Planung 
+# Planung 
 
 Die Umsetzung von FocusXP erfolgt in mehreren Schritten, um eine effiziente und gut strukturierte Entwicklung sicherzustellen. Dabei wird ein besonderer Fokus auf die Benutzerfreundlichkeit, die technische Umsetzung und die langfristige Skalierbarkeit der App gelegt.
 
