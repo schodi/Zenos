@@ -9,7 +9,7 @@ Das Hauptziel dieses Projekts ist es, Schülern und Studenten die Möglichkeit z
 # Inhaltsverzeichnis
 
 ## 1. [Ausgangssituation](/Workspace/Ausgangssituation.md) 
-## 2. [Allgemeine Bedingung und Einschränkung](/Workspace/Allgemeine-Bedingungen-Und-Einschränkung.md)
+## 2. [Allgemeine Bedingung und Einschränkung](/Workspace/Allgemeine-Bedingungen-Und-Einschränkungen.md)
 ## 3. [System Konzept und Ziele](/Workspace/Systemkonzept-Und-Ziele.md)
 ## 4. [Möglichkeiten und Risiken](/Workspace/Möglichkeiten-Und-Risiken.md)
 ## 5. [Planung](/Workspace/Planung.md)
