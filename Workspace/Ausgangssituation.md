@@ -1,31 +1,33 @@
-Steven
+# Ausgangssituation
 
-## Ausgangssituation
+In der folgenden Tabelle sind die Schulabbruchquoten von Frauen und Männern in der Oberstufe in Prozent dargestellt. Links sind die entsprechenden Jahre aufgeführt. Laut einem Artikel des Bundesministeriums resultiert ein Schulabbruch häufig aus einer Kombination komplexer Faktoren wie Lernschwierigkeiten, mangelnder Motivation, psychosozialen Herausforderungen und fehlender Unterstützung.
 
-Unser Grundkonzept lässt sich als solches beeschreiben:
+Diese Probleme können langfristig negative Auswirkungen auf die Berufschancen und die Lebensqualität haben. Insgesamt liegt die Schulabbrecherquote in Österreich jedoch unter dem Durchschnitt vieler anderer EU-Länder.
 
-1. Eine App wird das Hauptmerkmal sein.
-2. Aus verschiedene Lern-Methoden sich eine aus zusuchen die für den User am besten passt. (Karteikarten, den Inhalt als mp3 datei zu haben usw. )
-3. Täglich mitlernen um den Stoff nicht zu vergessen und gut auf die Prüfung/Test vorbereitet zu sein. 
+Wir wollen dagegen wirken, den früh das Problem zu erkennen, hilf der mentalen Gesundheit des Schüler und könnte die Depressionrate die derzeitig so hoch ist zu verringern. 
 
-Aktuelle Lernapps 
+https://www.bmbwf.gv.at/Themen/schule/bef/schulabbruch.html
+
+
+![FocusXP](/Img/SchulabbrecherTabelle.png)
+
+
+### Aktuelle Lernapps 
 
 * SimpleClub
 * Anton
 * StudySmarter
 * Studyflix
 
-Was ist der Unterschied zwischen den verfügbaren Apps und FocusXP
+>Was fehlt derzeit an den Lernapps?
 
-* Wir wollen den User eine tägliche Challenge geben, egal ob in English, Mathemathik, Deutsch usw. um ständig auf den aktuellen Stand zu sein, damit der Schuljahr/Semester leichter wird um man sich nicht um den Stress sich kömmert.
+Lern-Apps bieten Wissen und Aufgaben, doch ohne Belohnung kann das Lernen schnell monoton werden – besonders, wenn man mehrere Stunden am Stück lernt
 
-* Als zweiter Focus wollen wir eine Kalender implemetieren um ständig die Testtermine im Überblick zu haben. 
+Lern-Apps sollen dabei helfen, fehlendes Wissen nachzuholen oder schwierige Unterrichtsinhalte besser zu verstehen. Allerdings fehlt vielen Schülern die Motivation oder sie haben Schwierigkeiten mit dem Zeitmanagement, was den Lernerfolg einschränken kann. Gamification-Elemente wie Belohnungssysteme, interaktive Aufgaben und personalisierte Lernpfade können helfen, das Lernen attraktiver zu gestalten und die Motivation zu steigern. Eine gute Lern-App sollte daher nicht nur Wissen vermitteln, sondern auch gezielt Anreize setzen, um Schüler aktiv zum Lernen zu motivieren.
 
-* Unser App soll die Lernübungen und Videos dir freistellen, doch auch deine eigene Pdfs oder word datei zusammenfassen und so das lernen einfacher zu bereiten.
+## **Finanzielle Ausgangssituation**
 
-## Finanzielle Ausgangssituation
-
-Designkosten:
+### Designkosten
 
 Darunter fällt das User Interface (UI, Benutzeroberfläche) und die User Experience (UX, Benutzerfreundlichkeit).
 Für das App-Design kalkulieren wir 3.000 €, da durch die gegebene Individualität ein hoher Aufwand des Grafikdesigns entsteht.

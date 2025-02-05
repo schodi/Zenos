@@ -1,4 +1,4 @@
-![FocusXP](focus_logo1.png)
+![FocusXP](/Img/focus_logo1.png)
 
 ## Einführung in FocusXP - Teammitglieder: Markus Schoder / Steven Ou
 
