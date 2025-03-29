@@ -15,9 +15,9 @@ Product-Backlog von "FocusXP".
 | Navigationsbar | 1 | navibar | Als Benutzer möchte ich es einfach haben zwischen den Oberflächen wechseln zu können. | awd | awd | awd | awd |
 | Searchbar (User zur Gruppenarbeit) | 3 | searchbar | Als Benutzer möchte ich es einfach haben nach bestimmten Ereignissen oder anderen Nutzern zu suchen. | awd | awd | awd | awd |
 | Benachrichtigungen | 1 | notification_tab | Als Benutzer möchte ich über wichtige Ereignisse per Push-Benachrichtigungen auf meinem Handy informiert werden. | awd | awd | awd | awd |
-| User-Profil (Schüler) | 2 | user_profil_student | Als Benutzer möchte ich die Möglichkeit haben, ein schönes und ansprechendes Schüler-Profil erstellen zu können. | awd | awd | awd | awd |
-| Gruppen erstellen & arbeiten | 4 | Als Benutzer möchte ich die Möglichkeit haben, individuell Gruppen zu erstellen und mit diesen zu interagieren. | awd | awd | awd | awd | awd |
-| User-Lehrer | 2 | user_profil_teacher | Als Benutzer möchte ich die Möglichkeit haben, ein schönes und ansprechender Lehrer-Profil erstellen zu können. | awd | awd | awd | awd |
+| User-Profil (Schüler) | 2 | user_profil_student | Als Benutzer möchte ich die Möglichkeit haben, ein schönes und ansprechendes Schüler-Profil erstellen und verwalten zu können. | awd | awd | awd | awd |
+| Gruppen erstellen & arbeiten | 4 | chat | Als Benutzer möchte ich die Möglichkeit haben, individuell Gruppen zu erstellen und mit diesen zu interagieren. | awd | awd | awd | awd |
+| User-Lehrer | 2 | user_profil_teacher | Als Benutzer möchte ich die Möglichkeit haben, ein schönes und ansprechender Lehrer-Profil erstellen und verwalten zu können. | awd | awd | awd | awd |
 | Klassen erstellen | 5 | user_profil_teacher | Als Benutzer möchte ich die Möglichkeit haben, meine Schüler in der App als Klasse hinzuzufügen, um Aufgaben direkt und einfach verschicken zu können. | awd | awd | awd | awd |
 | Lehrer können Aufgaben freischalten (Moodle) | 5 | main_page | Als Benutzer möchte ich die Möglichkeit haben, schnell und einfach Aufgaben für meine zuvor erstellen Klassen, Aufgaben freizuschalten | awd | awd | awd | awd |
 
