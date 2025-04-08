@@ -5,7 +5,7 @@ Product-Backlog von "FocusXP".
 
 
 | ID | Priority | Epic | User Story | COS | Effort |Status|
-| ---|------|------| -----------|-----|--------|-------|-------|
+| ---|------|------| -----------|-----|--------|-------|
 | Schöne Übersicht (Benutzerfreundlich Übersicht) | 1 | main_page | Als Benutzer möchte ich ein klares, gut struktuiertes und ansprechendes UI haben. | Dem Benutzer eine klar strukturierte und benutzerfreundliche Übersicht zur Verfügung stellen | awd | Offen |
 | Kalender (Main Page) | 1 | main_page | Als Benutzer möchte ich direkt beim öffnen der Anwendung/App meinen Kalender mit den wichtigstens Ereignissen schnell sehen können | Dem Benutzer einen Kalender auf der main_page zur Verfügung stellen mit den wichtigstens Ereignissen. | awd | Offen |
 | Terminübersicht & Eintrag (Test, Sa)  | 2 | main_page | Als Benutzer möchte ich es einfach haben, Termine wie Tests, Schularbeiten oder Hausaufgaben erstellen zu können | Dem Benutzer die Möglichkeit geben über einen Button schnell und einfach Ereignisse zu erstellen. | awd | Offen |
